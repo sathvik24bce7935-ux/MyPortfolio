@@ -15,6 +15,15 @@ const ProjectsSection = () => {
       category: 'HealthCare',
       demoUrl: 'https://hack-orbit-git-main-dheerajs60s-projects.vercel.app/',
       githubUrl: '#'
+    },
+		{
+      title: 'My Portfolio Website',
+      description: 'I am a Computer Science student and aspiring astrophysicist, deeply fascinated by the mysteries of the universe. Since childhood, my passion for particle physics has driven me to explore, learn, and push beyond the boundaries of conventional knowledge. My curiosity fuels my journey to merge technology and science, with the ultimate goal of contributing to groundbreaking research in astrophysics and particle physics—advancing our understanding of the cosmos, one discovery at a time.',
+      tech: ['JavaScript', 'React','Tailwind'],
+      image: 'https://www.digitalsilk.com/wp-content/uploads/2023/09/website-launch-checklist-hero-image.jpg',
+      category: 'Portfolio',
+      demoUrl: 'https://lio-website-w3lx-alphaproject.netlify.app',
+      githubUrl: 'https://github.com/sathvik24bce7935-ux/MyPortfolio'
     }
   ];
 
